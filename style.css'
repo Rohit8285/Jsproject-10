@@ -90,7 +90,7 @@ li::marker{
         font-size: 2.5rem;
     }
     label{
-        font-size: 25px;
+        font-size: 22px;
         margin-left: 20px;
     }
     #birth{
